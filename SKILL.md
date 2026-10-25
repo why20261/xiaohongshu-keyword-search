@@ -1,8 +1,12 @@
 ---
 name: xiaohongshu-keyword-search
-description: 社媒平台小红书公开数据检索工具，关键词搜笔记、爆款选题、笔记详情、评论舆情、博主作品、粉丝获赞与收藏，输出 JSON，不登录不发布。触发词：小红薯、xhs、rednote、小红书、笔记链接、博主主页、竞品监控、KOL筛选、评论分析。用户要查小红书笔记、评论、选题、竞品或舆情时使用；抖音、快手、B站、微博、公众号不要用本技能。
+description: 社媒平台小红书公开数据检索工具，关键词搜笔记、爆款选题、笔记详情、评论舆情、博主作品、粉丝获赞与收藏，输出 JSON，不登录不发布。触发词：小红薯、xhs、rednote、小红书、笔记链接、博主主页、爆款文案、竞品监控、KOL筛选、评论分析。用户要查小红书笔记、评论、选题、竞品或舆情时使用；抖音、快手、B站、微博、公众号不要用本技能。
 license: MIT
 version: "1.2.0"
+display_name: 社媒小红薯📕标题生成文案与运营助手
+display_name_en: Xiaohongshu Title and Content Generator
+description_zh: 社媒平台小红书公开数据检索工具，关键词搜笔记、爆款选题、笔记详情、评论舆情、博主作品、粉丝获赞与收藏，输出 JSON，不登录不发布。触发词：小红薯、xhs、rednote、小红书、笔记链接、博主主页、爆款文案、竞品监控、KOL筛选、评论分析。用户要查小红书笔记、评论、选题、竞品或舆情时使用；抖音、快手、B站、微博、公众号不要用本技能。
+description_en: Xiaohongshu public data retrieval tool, keyword note search, trending topic mining, note details, comment sentiment monitoring, creator posts, follower/like/collection metrics, JSON output, no login & no posting. Triggers, Xiaohongshu, xhs, rednote, note link, creator homepage, viral copy, competitor tracking, KOL screening, comment analysis. For Xiaohongshu notes, comments, topics, competitor and public opinion queries only; exclude Douyin, Kwai, Bilibili, Weibo and WeChat Official Accounts.
 category: 数据分析
 metadata:
   openclaw:
